@@ -11,6 +11,6 @@ header("Expires: 0"); // Proxies.
 </div>
 <div>
 <?php 
- echo "Version 1";
+ echo "Version 2";
  ?>
 </div>
